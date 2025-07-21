@@ -2,6 +2,17 @@
 
 ![Programando](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 
+- Olá, me chamo Ismael Dias
+- Sou Assistente de Controldesk, e Bacharelando em Ciência da Computação - IFCE
+
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width:"100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width:"100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width:"100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width:"100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width:"100px">
+
 <!--
 **IsmaellDiias/ismaelldiias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
