@@ -27,6 +27,20 @@ ___negrito e itálico___
 
 ![Texto da imagem](https://img.freepik.com/fotos-gratis/ao-por-do-sol-na-praia-tropical-e-no-mar-com-coqueiro_74190-1075.jpg?semt=ais_hybrid&w=740)
 
+`código de uma linha`
+
+```código de várias linhas```
+
+> Citação
+
+| Cabeçalho 1 | Cabeçalho2 |
+| ----------- | ---------- |
+| texto 1     | texto 2    |
+| texto 3     | texto 4    |
+
+- [ ] Tarefa 1 <br>
+- [x] Tarefa 2
+
 <!--
 **IsmaellDiias/ismaelldiias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
