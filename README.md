@@ -1,7 +1,9 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
 <!-- ![Programando](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif) -->
-<img src = "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg" width='100px'>
+<p align='center'>
+<img src = "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/how-to-become-a-programmer-in-india.jpg" width='500px'>
+</p>
 
 - Olá, me chamo Ismael Dias
 - Sou Assistente de Controldesk, e Bacharelando em Ciência da Computação - IFCE
