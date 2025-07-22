@@ -2,11 +2,13 @@
 
 <!-- ![Programando](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif) -->
 <p align='center'>
-<img src = "https://sdmntpreastus.oaiusercontent.com/files/00000000-9884-61f9-be9f-eda32e8b1d80/raw?se=2025-07-22T13%3A14%3A13Z&sp=r&sv=2024-08-04&sr=b&scid=d9c91d21-ecd9-5ed6-bbeb-08618e607a50&skoid=31bc9c1a-c7e0-460a-8671-bf4a3c419305&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-21T23%3A23%3A08Z&ske=2025-07-22T23%3A23%3A08Z&sks=b&skv=2024-08-04&sig=GQXbM8s9TzE2CfN963TQY2jwSLhqORZ42Lfq9J5X6RI%3D" width='500px'>
+<img src = "./rupert-programmer.png" width='500px'>
 </p>
 
 - Olá, me chamo Ismael Dias
-- Sou Assistente de Controldesk, e Bacharelando em Ciência da Computação - IFCE
+- Trabalho atualmente como Assistente de Controldesk
+- Técnico em Redes de Computadores - IFCE
+- Bacharelando em Ciência da Computação - IFCE
 
 ### Minhas Tecnologias
 
