@@ -1,16 +1,21 @@
-## Sejam Bem-Vindos ao Meu Mundo!
+<h1 align='center'>Hello World, I'm Ismael Dias!</h1>
 
-<!-- ![Programando](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif) -->
 <p align='center'>
 <img src = "./rupert-programmer.png" width='500px'>
 </p>
 
-- Olá, me chamo Ismael Dias
-- Trabalho atualmente como Assistente de Controldesk
-- Técnico em Redes de Computadores - IFCE
-- Bacharelando em Ciência da Computação - IFCE
+---------------------------------------------------------------------------------------
+### About Me
 
-### Minhas Tecnologias
+⭐ Me chamo Ismael Dias <br>
+📊  Trabalho atualmente como Assistente de Controldesk <br>
+💻 Graduando em Ciência da Computação - IFCE <br>
+📱 Estou aprendendo e programando atualmente em React Native <br>
+🎮 No tempo livre adoro programar jogos retrôs, para entender a lógica por trás.
+
+---------------------------------------------------------------------------------------
+
+### My Langs
 
 <p align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
@@ -23,16 +28,27 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="100px">
 </p>
 
+---------------------------------------------------------------------------------------
+### Latest Courses and Certificates
 
--------------------------
+
 | Cursos | Certificados |
 |--------|--------------|
-|Teste1  |[Certificado]()|
+|Formatação com Markdown|[Certificado](https://www.dio.me/certificate/GKTKL5DN/share)|
+|Gerenciando eventos no React Native|[Certificado](https://www.dio.me/certificate/IRGAKRQ7/share)|
+|Flexbox e Responsividade no React Native|[Certificado](https://www.dio.me/certificate/5PMHDZXT/share)|
+|Trabalhando Com Componentes no React Native|[Certificado](https://www.dio.me/certificate/1FTICCJH/share)|
+|Primeiros Passos com React Native & Expo|[Certificado](https://www.dio.me/certificate/WZEGCMN9/share)|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelldiias)
+---------------------------------------------------------------------------------------
 
-![IsmaellDiias's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelldiias&show_icons=true&theme=radical)
-
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismaelldiias&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelldiias&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 <!--
 **IsmaellDiias/ismaelldiias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
