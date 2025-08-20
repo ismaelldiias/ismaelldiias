@@ -29,7 +29,7 @@
 </p>
 
 ---------------------------------------------------------------------------------------
-### Latest Courses and Certificates
+<!--### Latest Courses and Certificates
 
 
 | Cursos | Certificados |
@@ -40,7 +40,7 @@
 |Trabalhando Com Componentes no React Native|[Certificado](https://www.dio.me/certificate/1FTICCJH/share)|
 |Primeiros Passos com React Native & Expo|[Certificado](https://www.dio.me/certificate/WZEGCMN9/share)|
 
----------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------->
 
 <div align="center">  
   
